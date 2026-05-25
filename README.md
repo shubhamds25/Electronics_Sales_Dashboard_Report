@@ -11,3 +11,6 @@ The main objective of this project is to analyze and visualize retail sales data
 
 ## Dataset file
 <a href="https://github.com/shubhamds25/Electronics_Sales_Dashboard_Report/blob/main/Main_Data.xlsx">Dataset</a>
+
+## Dashboard
+![Screenshot](https://github.com/shubhamds25/Electronics_Sales_Dashboard_Report/blob/main/Screenshot.png)

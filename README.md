@@ -9,3 +9,5 @@ The main objective of this project is to analyze and visualize retail sales data
 4.Which gender category contributes more to overall sales?
 5.Which brand has the highest sales performance?
 
+## Dataset file
+<a href="https://github.com/shubhamds25/Electronics_Sales_Dashboard_Report/blob/main/Main_Data.xlsx">Dataset</a>
